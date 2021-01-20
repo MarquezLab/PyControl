@@ -1,6 +1,7 @@
-# One-forced choice task for individual training of the recipient subject during the social-decision task (Maze 1A)
-# The subject has to poke an increasing number of times given by the block number (pokes_for_reward). The number
-# of successful trials per block can be changed according to the needs (trials_per_block).
+# Example task for individual training of the recipient subject prior to the social-decision making task for mice (Maze 1A)
+# The subject has to poke an increasing number of times to open the door that provides access to the reward arm. 
+# The required number of pokes is given by the block number (pokes_for_reward). The number
+# of successful trials per block, meaning number of pokes in a certain period, can be changed according to experimental needs (trials_per_block).
 # The experimenter can set the starting nose-poke ratio at the beginning of the session by changing the block_number.
 
 from pyControl.utility import *
