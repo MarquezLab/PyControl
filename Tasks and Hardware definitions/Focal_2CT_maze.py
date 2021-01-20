@@ -1,6 +1,6 @@
-# Two choice task for individual training of the decision-maker during the social-decision task.
+# Two-alternative forced choice task for individual training of the decision-maker, prior to the prosocial-decision task for mice.
 # The subject has to poke once in any of the 2 poke-choices to access the food pellet, delivered by a stepper motor in the reward areas. 
-# After 10 seconds in the reward area, the door will open to allow the animal go back to the choice area and start a new trial.
+# 10 seconds after entrance in the reward area, the door will open to allow the animal to go back to the choice area and start a new trial.
 
 from pyControl.utility import *
 import hardware_definition as hw
