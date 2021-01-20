@@ -1,2 +1,2 @@
 # pyControl
-# Contributions from the Marquez lab to the development and diversification of PyControl resources
+# Contributions from the Marquez lab to the development and diversification of pyControl resources
