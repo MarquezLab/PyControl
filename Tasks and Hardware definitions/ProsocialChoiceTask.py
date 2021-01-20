@@ -1,6 +1,5 @@
 #Example of social-decision making task (version R1A: prosocial side is A, focal maze number 2).
-#The focal animal is in Maze 2, and recipient is in Maze 1.
-#Prosocial side is A, selfish B. 
+#The focal animal is in Maze 2, and recipient is in Maze 1. Prosocial side is A, selfish B. 
 #The focal can poke in IR 2A to go to prosocial side (A), giving reward to both animals
 # or poke in IR 2B to go to selfish side (B), giving reward only to itself.
 # No display of preference by recipient required to start trial.
